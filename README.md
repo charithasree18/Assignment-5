@@ -38,3 +38,7 @@ Ideal for beginners learning list manipulation and slicing operations in Python.
 
 ## Output
 
+Task 1
+
+![Image](https://github.com/user-attachments/assets/47ee3e52-afa1-4e63-b119-9ce34acf661c)
+
