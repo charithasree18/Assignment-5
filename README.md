@@ -42,3 +42,7 @@ Task 1
 
 ![Image](https://github.com/user-attachments/assets/47ee3e52-afa1-4e63-b119-9ce34acf661c)
 
+![Image](https://github.com/user-attachments/assets/cdc3f8a0-4383-40ef-a927-8daba824eb9b)
+
+Task 2
+
