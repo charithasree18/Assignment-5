@@ -46,3 +46,6 @@ Task 1
 
 Task 2
 
+![Image](https://github.com/user-attachments/assets/bebe6d20-b26b-4114-8175-c4ce308a130d)
+
+
